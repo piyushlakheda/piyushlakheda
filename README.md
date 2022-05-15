@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/piyushlakheda/](https://www.linkedin.com/in/piyushlakheda/)
 
-- ⚡ Other Side **I love capturing moments in my frames, solving brain teasers and exploring world:)**
+- ⚡ Other Side **I love capturing moments in my frames, solving brain teasers and exploring world :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
