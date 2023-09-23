@@ -19,10 +19,10 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!--<h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="webpack" width="50" height="50"/> </a> </p>
 <p>
-<h3>Tools and Platform:</h3>
+<h3>Tools and Platform:</h3>-->
 
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
