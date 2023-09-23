@@ -1,8 +1,8 @@
 <h1 align="center">Hi  I'm Piyush Lakheda</h1>
-<h3 align="center">A Cloud and Flutter enthusiast from India.</h3>
+<h3 align="center">Flutter/React/Angular AWS/GCP/Azure.</h3>
 <p align="Center"><img align="Center"  height="400" src="hu.gif"></p>
 
-- 🌱 I’m currently learning **Node.js and few other tech skills**
+- 🌱 I’m currently Looking ** SDE/SWE roles **
 
 - 💬 Ask me anything about my domain, **🤝 ready to help:)**
 
