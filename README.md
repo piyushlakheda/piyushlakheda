@@ -38,16 +38,17 @@
 
 
 <br>
-![Flutter](https://img.icons8.com/color/48/000000/flutter.png) 
-![React](https://img.icons8.com/color/48/000000/react-native.png)<br> 
+
 
 ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) 
 ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) 
 ![Docker](https://img.icons8.com/color/48/000000/docker.png) <br>
 
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+ ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png) <br> 
 
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)<br>
 
 ![Linux](https://img.icons8.com/color/48/000000/linux.png) 
