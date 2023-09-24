@@ -43,7 +43,7 @@
 ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) 
 ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) 
-![Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png) 
+![Azure](https://azure.microsoft.com/)
 ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) 
 ![Docker](https://img.icons8.com/color/48/000000/docker.png) 
 ![Linux](https://img.icons8.com/color/48/000000/linux.png) 
