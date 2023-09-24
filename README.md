@@ -26,11 +26,10 @@
 </p>
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">  
- 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
-![Python](https://img.icons8.com/color/48/000000/python.png) 
+
 ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
 ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
@@ -40,9 +39,19 @@
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
 ![SQL](https://img.icons8.com/color/48/000000/sql.png) 
 ![React](https://img.icons8.com/color/48/000000/react-native.png) 
-![MySQL](https://img.icons8.com/color/48/000000/mysql.png) 
-![Sass](https://img.icons8.com/color/48/000000/sass.png) 
-![Django](https://img.icons8.com/color/48/000000/django.png) 
+![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
+![Flutter](https://img.icons8.com/color/48/000000/flutter.png) 
+![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)
+![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) 
+![Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png) 
+![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) 
+![Docker](https://img.icons8.com/color/48/000000/docker.png) 
+![Linux](https://img.icons8.com/color/48/000000/linux.png) 
+![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+
+
+
 ![Figma](https://img.icons8.com/color/48/000000/figma.png) 
 
 
