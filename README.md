@@ -70,17 +70,7 @@
  
  </p>
  
-<h3 align="left">Github Stats:</h3>
-<details>
-  <summary><b><samp>📈 My GitHub Stats(click)</samp></b></summary>
-<br>
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=piyushlakheda&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-</details>
- 
-<br>
- 
 
-![snake svg](https://github.com/piyushlakheda/piyushlakheda/blob/main/github-contribution-grid-snake.svg)
+
  
  
