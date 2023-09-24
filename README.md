@@ -57,18 +57,7 @@
 ![Figma](https://img.icons8.com/color/48/000000/figma.png) 
 
 
-</p>
 
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=for-the-badge&logo=Firebase&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=ffffff)
-
- 
- </p>
  
 
 
