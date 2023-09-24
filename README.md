@@ -40,13 +40,13 @@
 ![SQL](https://img.icons8.com/color/48/000000/sql.png) 
 ![React](https://img.icons8.com/color/48/000000/react-native.png) 
 ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
-![Flutter](https://img.icons8.com/color/48/000000/flutter.png) 
+![Flutter](https://img.icons8.com/color/48/000000/flutter.png) <br>
 ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) 
-![Azure](https://azure.microsoft.com/)
+
 ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) 
 ![Docker](https://img.icons8.com/color/48/000000/docker.png) 
-![Linux](https://img.icons8.com/color/48/000000/linux.png) 
+![Linux](https://img.icons8.com/color/48/000000/linux.png) <br>
 ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
