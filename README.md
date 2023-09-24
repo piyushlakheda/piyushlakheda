@@ -24,11 +24,29 @@
 </a>
 
 </p>
+<h2 align="left">Languages and Tools:</h2>
+<p align="left">  
+ 
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+![Python](https://img.icons8.com/color/48/000000/python.png) 
+![C](https://img.icons8.com/color/48/000000/c-programming.png) 
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
+![CSS](https://img.icons8.com/color/48/000000/css3.png) 
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
 
-<!--<h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="webpack" width="50" height="50"/> </a> </p>
-<p>
-<h3>Tools and Platform:</h3>-->
+<br>
+
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
+![SQL](https://img.icons8.com/color/48/000000/sql.png) 
+![React](https://img.icons8.com/color/48/000000/react-native.png) 
+![MySQL](https://img.icons8.com/color/48/000000/mysql.png) 
+![Sass](https://img.icons8.com/color/48/000000/sass.png) 
+![Django](https://img.icons8.com/color/48/000000/django.png) 
+![Figma](https://img.icons8.com/color/48/000000/figma.png) 
+
+
+</p>
 
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
