@@ -1,5 +1,5 @@
 <h1 align="center">Hi  I'm Piyush Lakheda</h1>
-<h3 align="center">Developer</h3>
+<h3 align="center">Flutter and MERN Stack Developer</h3>
 <p align="Center"><img align="Center"  height="400" src="hu.gif"></p>
 
 - 🌱 I’m currently Looking **SDE/SWE roles**
