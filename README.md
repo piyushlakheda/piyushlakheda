@@ -12,10 +12,16 @@
 
 - ⚡ Other Side **I love capturing moments in my frames, solving brain teasers and exploring world :)**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
+
 <p align="left">
 
-<a href="https://piyushlakheda.github.io/" target="blank">Piyush</a>
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/piyushlakheda/)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/piyush_lakheda)
+
+
+</a>
 
 </p>
 
