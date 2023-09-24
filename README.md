@@ -30,27 +30,28 @@
 ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
-![CSS](https://img.icons8.com/color/48/000000/css3.png) 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
-
-<br>
-
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
 ![SQL](https://img.icons8.com/color/48/000000/sql.png) 
-![React](https://img.icons8.com/color/48/000000/react-native.png) 
-![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
-![Flutter](https://img.icons8.com/color/48/000000/flutter.png) <br>
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
+![CSS](https://img.icons8.com/color/48/000000/css3.png)<br> 
+
+
+<br>
+![Flutter](https://img.icons8.com/color/48/000000/flutter.png) 
+![React](https://img.icons8.com/color/48/000000/react-native.png)<br> 
+
 ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) 
-
 ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) 
-![Docker](https://img.icons8.com/color/48/000000/docker.png) 
-![Linux](https://img.icons8.com/color/48/000000/linux.png) <br>
-![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
+![Docker](https://img.icons8.com/color/48/000000/docker.png) <br>
+
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
+![MySQL](https://img.icons8.com/color/48/000000/mysql.png)<br>
 
+![Linux](https://img.icons8.com/color/48/000000/linux.png) 
+![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
 
 ![Figma](https://img.icons8.com/color/48/000000/figma.png) 
 
